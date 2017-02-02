@@ -1,11 +1,9 @@
-{
-   "status":"OK",
-   "copyright":" Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
-   "results":[
+
       {
          "congress": "115",
          "chamber": "Senate",
-         
+         "status":"OK",
+         "copyright":" Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
          
          "num_results": "100",
          "offset": "0",
@@ -2612,7 +2610,6 @@
                }
              ]
       }
-   ]
-}
+
 
 
