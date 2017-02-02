@@ -1,22 +1,3 @@
-iCurlHTTP v1.9
-
-URL: https://api.propublica.org/congress/v1/115/senate/members.json
-Date: Thursday 2 Feb 2017, 12:22 AM
-
-HTTP/1.1 200 OK
-Date: Thu, 02 Feb 2017 06:44:35 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 110894
-Connection: keep-alive
-Access-Control-Allow-Headers: Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token
-Access-Control-Allow-Methods: GET,OPTIONS
-Access-Control-Allow-Origin: *
-x-amzn-RequestId: 0f7fe85e-e913-11e6-ab2a-97b56cd9e95a
-X-Amzn-Trace-Id: Root=1-5892d553-5ff37d7ff3a615f29063de21
-X-Cache: Miss from cloudfront
-Via: 1.1 cd2d612e5ed1fba016ec7b494cdbd18c.cloudfront.net (CloudFront)
-X-Amz-Cf-Id: DIUnWP4ok6kSstp2crT2BXuquPagrMt645qVIC-tbwqICDfN77h_Iw==
-
 {
    "status":"OK",
    "copyright":" Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
