@@ -1,30 +1,8 @@
-iCurlHTTP v1.9
-
-URL: https://api.propublica.org/congress/v1/115/house/members.json
-Date: Thursday 2 Feb 2017, 1:59 PM
-
-HTTP/1.1 200 OK
-Date: Thu, 02 Feb 2017 21:52:13 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 502480
-Connection: keep-alive
-Access-Control-Allow-Headers: Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token
-Access-Control-Allow-Methods: GET,OPTIONS
-Access-Control-Allow-Origin: *
-x-amzn-RequestId: d931fc09-e991-11e6-8e4f-dd2d87b2ec6c
-X-Amzn-Trace-Id: Root=1-5893aa0a-badd8140fdb32562e4bcee3b
-X-Cache: Miss from cloudfront
-Via: 1.1 b790a9f06b09414fec5d8b87e81d4b7f.cloudfront.net (CloudFront)
-X-Amz-Cf-Id: 9Ap0xZhKP5SKr1PQZWEY66QXlMwWaak9JF_TTDU3XQfnPrbSg0sBHQ==
-
-{
-   "status":"OK",
-   "copyright":" Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
-   "results":[
       {
          "congress": "115",
          "chamber": "House",
-         
+         "status":"OK",
+         "copyright":" Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
          
          "num_results": "440",
          "offset": "0",
@@ -11906,7 +11884,3 @@ X-Amz-Cf-Id: 9Ap0xZhKP5SKr1PQZWEY66QXlMwWaak9JF_TTDU3XQfnPrbSg0sBHQ==
                }
              ]
       }
-   ]
-}
-
-
